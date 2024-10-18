@@ -7,7 +7,9 @@
     background-color: rgba(255, 255, 119, 0.753);
 }
 
-.both {
+.first, 
+.second 
+{
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
